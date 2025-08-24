@@ -23,8 +23,6 @@ A web application that converts bulk text and markdown into fully formatted Powe
 
 3. **Start development server:**
 
-4. **Open in browser:**
-   Navigate to http://localhost:5173
 
 ## Usage
 
